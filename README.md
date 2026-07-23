@@ -22,7 +22,7 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
    ```bash
    https://github.com/Yashvanth876/customer_behavior_analysis
    ```
-2. **Open Customer_Shopping_Behavior_Analysis.ipynb notebook**
+2. **Open data_cleaning.ipynb notebook**
 
     This file contains:
 
@@ -40,7 +40,7 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
 
       - Run Python code to load data into SQL database
   
-      - Open **customer_behavior_sql_queries.sql**
+      - Open **query.sql**
   
       - Answer Business Questions using SQL Queries 
       
